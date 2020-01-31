@@ -1,0 +1,7 @@
+C:\Users\W0434343\OneDrive - Nova Scotia Community College\Year 1 - Semester 2\Personal\TextAdventure_KF\TextAdventure_KF\obj\Debug\TextAdventure_KF.csprojAssemblyReference.cache
+C:\Users\W0434343\OneDrive - Nova Scotia Community College\Year 1 - Semester 2\Personal\TextAdventure_KF\TextAdventure_KF\obj\Debug\TextAdventure_KF.csproj.CoreCompileInputs.cache
+C:\Users\W0434343\OneDrive - Nova Scotia Community College\Year 1 - Semester 2\Personal\TextAdventure_KF\TextAdventure_KF\bin\Debug\TextAdventure_KF.exe.config
+C:\Users\W0434343\OneDrive - Nova Scotia Community College\Year 1 - Semester 2\Personal\TextAdventure_KF\TextAdventure_KF\bin\Debug\TextAdventure_KF.exe
+C:\Users\W0434343\OneDrive - Nova Scotia Community College\Year 1 - Semester 2\Personal\TextAdventure_KF\TextAdventure_KF\bin\Debug\TextAdventure_KF.pdb
+C:\Users\W0434343\OneDrive - Nova Scotia Community College\Year 1 - Semester 2\Personal\TextAdventure_KF\TextAdventure_KF\obj\Debug\TextAdventure_KF.exe
+C:\Users\W0434343\OneDrive - Nova Scotia Community College\Year 1 - Semester 2\Personal\TextAdventure_KF\TextAdventure_KF\obj\Debug\TextAdventure_KF.pdb
